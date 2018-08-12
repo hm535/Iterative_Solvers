@@ -1,4 +1,7 @@
-# ECE4960 - Programming Assignment 2 Full & Compressed Matrice and Jacobi Solver
+# ECE4960 - Full & Compressed Matrices and Jacobi Solver
+
+Written in junction with Ariana Bruno (amb633) as part of a programming assignment in for ECE4960.
+Repos have been forked individually.
 
 - *report.txt* contains our analysis of the implementation and algorithms
 - *output_log.txt* contains the log of all checks, tests and the solver runs
